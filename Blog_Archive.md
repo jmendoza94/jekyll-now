@@ -4,6 +4,14 @@ title: Blog Archives
 permalink: /Blog_Archive/
 ---
 
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">August</a>
+    </li>
+  {% endfor %}
+</ul>
+
 Some information about you!
 
 ### More Information
