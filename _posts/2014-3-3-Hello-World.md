@@ -3,8 +3,5 @@ layout: post
 title: Lastest Blog Post
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+For far I think this class will be challenging, but rewarding. He really desires to prepare his student for their careers once they graduate.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
