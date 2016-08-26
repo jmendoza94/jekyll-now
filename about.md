@@ -1,14 +1,14 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /About/
 ---
 
-Some information about you!
+I'm senior at The University of Texas at Austin majoring in Computer Science. I am also working on getting my Business Foundation Certificate.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I've been a member of Kappa Delta Chi and am also heavily involved with The Project, a service organization.
 
 ### Contact me
 
