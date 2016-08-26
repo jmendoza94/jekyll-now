@@ -5,15 +5,13 @@ permalink: /Blog_Archive/
 ---
 
 Currently no archives avilabile.
-<!--
-<ul>
+<!--<ul>
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">August</a>
     </li>
   {% endfor %}
-</ul>
--->
+</ul>-->
 
 <!--
 Some information about you!
