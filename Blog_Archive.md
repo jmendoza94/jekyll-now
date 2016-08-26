@@ -4,6 +4,8 @@ title: Blog Archives
 permalink: /Blog_Archive/
 ---
 
+Currently no archives avilabile.
+<!--
 <ul>
   {% for post in site.posts %}
     <li>
@@ -11,6 +13,7 @@ permalink: /Blog_Archive/
     </li>
   {% endfor %}
 </ul>
+-->
 
 <!--
 Some information about you!
