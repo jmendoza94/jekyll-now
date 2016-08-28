@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /About/
+permalink: /about/
 ---
 
 I'm senior at The University of Texas at Austin majoring in Computer Science. I am also working on getting my Business Foundation Certificate.
