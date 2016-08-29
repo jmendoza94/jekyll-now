@@ -10,6 +10,6 @@ I'm senior at The University of Texas at Austin majoring in Computer Science. I 
 
 I've been a member of Kappa Delta Chi Sorority, Inc. since Spring 2013 and am also heavily involved with The Project, a service organization.
 
-<!-- Contact me
+### Contact me
 
-[email@domain.com](mailto:email@domain.com) -->
+[jmendoza94@utexas.edu](mailto:email@domain.com)
