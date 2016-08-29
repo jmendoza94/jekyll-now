@@ -12,4 +12,4 @@ I've been a member of Kappa Delta Chi Sorority, Inc. since Spring 2013 and am al
 
 ### Contact me
 
-[jmendoza94@utexas.edu](mailto:email@domain.com)
+[JMendoza94@utexas.edu](mailto:JMendoza94@utexas.edu)
