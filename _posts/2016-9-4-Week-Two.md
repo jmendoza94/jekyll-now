@@ -7,7 +7,7 @@ title: 'Week Two'
 This past week was very chaotic for me. So far two of my classes are kind of slow, the material hasn’t picked up as much but I do have a lot of homework for each of my classes. So, this week I’ve been trying to keep up with everything and work on my homework, go over my notes in preparation for the OOP quizzes but thankfully we didn’t have a quiz on Friday.  On top of that, I’ve been preparing myself and my computer for the OOP project due on Thursday.
 
 **What's in your way?**
-There’s two major things that have gotten in my way for this past week which were the organization I’m involved with since Party on the Plaza requires some time. I’m also trying to figure out a way to balance my schedule with school, extra curricular activities and sleep. 
+There’s two major things that have gotten in my way this past week which were the organization I’m involved with since Party on the Plaza requires some time. I’m also trying to figure out a way to balance my schedule with school, extra curricular activities and sleep. 
 
 **What will you do next week?**
 Next week I will make an hourly schedule in order to have balance within my day and to accomplish the many things I need to do. I will also continue working on the OOP project, my homework, and quizzes for my classes.
