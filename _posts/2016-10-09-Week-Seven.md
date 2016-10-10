@@ -4,7 +4,7 @@ title: 'Week Seven'
 ---
 
 **What did you do this past week?**
-This past week was a bit overwhelming since I had the first exam for OOP and also first exam for another class, a project, homework and meetings for extracurricular. I would have liked to spend more time studying for OOP, I thought the exam was pretty reasonable. There were 6 questions each worth between 30-65 points, all coding so no multiple choice. In the exam there were a few things that I would have liked to focus a bit more on.
+This past week was a bit overwhelming since I had the first exam for OOP and also first exam for another class, a project, homework and meetings for extracurricular. I would have liked to spend more time studying for OOP but I thought the exam was pretty reasonable. There were 6 questions each worth between 30-65 points, all coding so no multiple choice. In the exam there were a few things that I would have liked to focus a bit more on.
 
 **What's in your way?**
 This week the thing that got in my way was as always, time, being more time efficient with it. I think another thing that gets in my way is commuting, I don’t live on or near campus so I realized I spend a lot of time going back and forward to campus.
